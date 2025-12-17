@@ -240,7 +240,14 @@
 		<div class="flex flex-col md:flex-row justify-between items-center mt-20 pt-8 border-t border-gray-200 text-[10px] text-gray-400 gap-4">
 			<p>©DJ OREN. ALL RIGHTS RESERVED</p>
 			<div class="flex items-center gap-1">
-				<span class="text-black text-lg font-bold tracking-tight">DJ OREN</span>
+				<div class="w-8 h-8 text-[#1A1A1A]">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 101" fill="none" class="w-full h-full">
+						<path d="M0.464844 100.557H25.6042L0.464844 0V100.557Z" fill="currentColor"/>
+						<path d="M50.7437 100.557H75.883L50.7437 0V100.557Z" fill="currentColor"/>
+						<path d="M25.604 100.557H50.7434L25.604 0V100.557Z" fill="currentColor"/>
+						<path d="M75.8828 100.557H101.022L75.8828 0V100.557Z" fill="currentColor"/>
+					</svg>
+				</div>
 			</div>
 			<p>PROFESSIONAL DJ SERVICES</p>
 		</div>
